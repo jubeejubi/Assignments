@@ -1,0 +1,136 @@
+form .reg{
+    width: 900px;
+    height: 600px;
+    margin-top: 50px;
+    margin-left: 130px;
+    background-color: #807d77;
+    border: none;
+    border-bottom-left-radius: 27px;
+    border-bottom-right-radius: 27px;
+}
+
+.sig{
+    background-color: #108208;
+    font-size: 40px;
+    text-align: left;
+    font-family: Arial;
+    height: 44px;
+    margin-top: 49px;
+}
+
+
+form label{
+    font-size: 25px;
+    font-family:  'Trebuchet MS';
+    margin-left: 14px;
+}
+
+.reg .name{
+    width: 290px;
+    height: 29px;
+    border-radius: 6px;
+    border: 1px solid #403e3a;
+    margin-top: 17px;
+    background-color: transparent;
+    font-size: 20px;
+}
+.reg #phone, #state, #email, #password{
+    margin-top: 20px;
+    margin-left: 52px;
+}    
+.reg #gender{
+    margin-left: 48px;
+}
+.reg option, select{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.reg .space{
+    margin-top: 42px;
+}
+.reg #password, #confirmpassword{
+    margin-left: 17px;
+}
+.reg #confirmpassword{
+    margin-left:24px;
+    color: #000;
+}
+ 
+.reg #registerrr{
+    width: 367px;
+    margin-left: 240px;
+    padding: 12px;
+    height: 49px;
+  font-size: 25px;
+    margin-top: 25px;
+    background-color: #108208;
+    font-family: sans-serif;}
+
+  .contactdiv .rplink{
+    margin-left: 23px;
+    font-size: 23px;
+    font-family: 'Times New Roman';
+}
+.rplink a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #fff;
+}
+.contactdiv .btn3{
+    width: 180px;
+    height: 45px;
+    background-color: #403e3a;
+    color: #fff;
+    margin-left: 190px;
+    margin-top: -4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-transform: capitalize;
+    border: 1px solid black;
+    border-radius: 35px;   font-size: 22px;}
+    
+.contactdiv{
+    width: 800px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 149px;
+    background-color: #108208;
+    border-radius: 20px;
+}
+
+.contactdiv .conemail{
+    width:400px;
+    background-color: transparent;
+    border: 3px solid;
+    margin-top: 20px;
+    margin-left: 100px;
+    height: 37px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+.contactdiv #pass1{
+    margin-left: 65px;
+}
+.contactdiv .cc{
+    margin-left: 120px;
+    font-size: 33px;
+}
+.contactdiv .cd{
+    margin-left: 188px;
+    font-size: 29px;
+    margin-top: 3px;
+    color: #403e3a;
+}
+  main .abw{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 64px;
+    color: #fff;
+    margin-left: 45px;
+}
+main .abbw {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 37px;
+    color: #fff;
+    margin-left: 60px;
+}
